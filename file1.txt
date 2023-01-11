@@ -1,4 +1,4 @@
 Welcome to INFO 442 Week 2.
-Merge conflicts are annoying.
+one more changes
 Hopefully rebasing can help in collaboration!
 Added a testing line.
